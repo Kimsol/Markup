@@ -1,7 +1,5 @@
 #Group10
-##나정기
-###jeong-ki Na
-####H4
+나정기 jeong-ki NA
 
 Al-H1
 ======
