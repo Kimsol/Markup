@@ -44,11 +44,11 @@ print s
 ```
 
 <표>
-|Tables	|Are	|cool|
-|-------|:-----:|---:|
-|col 3  |right  |$199|
-|col 2    |center | $12|
-|zebra  |near   |  $1|
+| Tables      | Are      | Cool     | 
+| ---------------- |:----------------:| ---------:|
+| col 3 is     | right | $16 | 
+| col 2 is   | centered    |     $12 | 
+| zebra stripes |  neat  |       $1 |
 
 Markdown|Less|Pretty
 ---|---|---
@@ -59,4 +59,4 @@ Markdown|Less|Pretty
 [alt text](https://github.com/adam-p/markdown-here/raw/master/stc/common/images/icon48.png
 
 <인용>
-jihyunee is **King**
+jihyunee is **LOVE**
