@@ -1,4 +1,4 @@
-#Group10
+Group10
 나정기 jeong-ki NA
 
 Al-H1
