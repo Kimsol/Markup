@@ -23,9 +23,9 @@ Strikethrough uses two tilds. ~~Scratch this.~~
 2. Another item
 ..*Unordered sub-list.
 
-*Unodered list can use asterisks
--Or minuses
-+Or pluses
+*Unordered list can use asteisks
+- or minuses
++ or pluses
 
 링크
 [I'm an inline-style line](https://www.google.com)
