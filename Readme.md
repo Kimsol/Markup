@@ -1,27 +1,16 @@
-<<<<<<< HEAD
+
+=======
+# 10조
+2011136017김  솔
+2013136032나정기
+2016136028김지현
 
 
+=======
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![alt text](http://s3-ap-northeast-2.amazonaws.com/stockplus-insight-seoul/articles/pictures/8565/content_2012.png "국가별 하루 평균 수명시간")![alt text](http://hirawebzine.or.kr/wp-content/uploads/2014/08/121-770x441.png "수면장애 진료 현황") a71aec4139c5e92a61a434db1b9657078b02bc70
+>>>>>>> 617139eff2ee0d567976574adb7dcc40a9dc7cc9
 
 
 
@@ -31,16 +20,6 @@
 
 * 수면부족의 원인에 여러가지가 있지만 가장 큰 원인으로, 수면 간 적정온도조절 미흡이 있다. 수면간 적정온도 조절이 되지 않아서, 잠을 제대로 자지 못학 되고 이로 인해 건강이 나빠 지거나, 일상 생활을 하는데 불편함을 겪기 때문이다. **그러므로 수면간에 자동으로 적정온도 조절이 되는 장치가 필요하다.** 이는 사용자에게 쾌적한 수면환경과 양질의 수면을 제공 할 것이다. 이는 일상생활 큰 활력을 불어넣을 것이고, 신체 건강 유지에 도움을 줄것이다.
 
-=======
-#10조
-2011136017김  솔
-2013136032나정기
-2016136028김지현
->>>>>>> a71aec4139c5e92a61a434db1b9657078b02bc70
-
-=======
-=======10조------2011136017김  솔2013136032나정기2016136028김지현>>>>>>>
 
 
-![alt text](http://s3-ap-northeast-2.amazonaws.com/stockplus-insight-seoul/articles/pictures/8565/content_2012.png "국가별 하루 평균 수명시간")![alt text](http://hirawebzine.or.kr/wp-content/uploads/2014/08/121-770x441.png "수면장애 진료 현황") a71aec4139c5e92a61a434db1b9657078b02bc70
->>>>>>> 617139eff2ee0d567976574adb7dcc40a9dc7cc9
+
