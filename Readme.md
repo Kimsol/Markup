@@ -22,7 +22,6 @@
  
 ## 기존 관련 사례
 온수를 이용한 온도 조절 방식. 이 방식은 물을 가열하거나 냉각시킴으로써 온도를 조절하는 방식이다. 이 방식의 장점은 물을 이용한다는 점으로 온도의 급강하나 급상승이 되지 않고 에너지 절약 측면에서 전기매트에 비해서 효율적이다. 물을 삽입하는 탱크에 물을 냉각 및 가열하는 장치를 넣어서 온도조절을 한다. 온수매트를 열전도율과 냉기 전도율이 좋은 물질을 이용하여 직접적으로 열과 냉기에 노출되지 않도록 하는 관을 삽입한다. 그 위에 자세균형 유지를 하기 위한 매트릭스를 만들어 올리고 프레임을 방온 및 방냉각이 되는 재질을 이용하여 만들어 열 손실과 하강을 최소화 할 수 있도록 한다.
-![alt text]http://cfs11.blog.daum.net/image/34/blog/2008/01/14/11/29/478ac91b809e2&filename=Untitled-1copy.jpg
+![alt text](http://cfs11.blog.daum.net/image/34/blog/2008/01/14/11/29/478ac91b809e2&filename=Untitled-1copy.jpg)
 자세균형보조를 위해서 침대 매트리스 양쪽에 장치를 추가하고 매트리스 내부에 특정 장치를 삽입한다. 이는 사용자의 수면 중 높낮이 조절을 위한 것이다.장치의 목적은 사용자가 수면 중에 *자세불균형*으로 인한 통증이나 질병을 치료 및 도움을 주기 위해서이다.
-![alt text]http://m.post.naver.com/viewer/image.nhn?src=http%3A%2F%2Fpost.phinf.naver.net%2FMjAxNzAxMjVfMjI1%2FMDAxNDg1MzI2NzU1Mzc1.CuPpxk4MDKS_LNZkkdORZpmytRe5i0r9g2YbafibqEcg.oZ-teQfrOtEyHGkEZti1IsmVWuxvayFXsQLmDlAlJjIg.PNG%2F14301727175887eb267ad2e.png
-
+![alt text](http://m.post.naver.com/viewer/image.nhn?src=http%3A%2F%2Fpost.phinf.naver.net%2FMjAxNzAxMjVfMjI1%2FMDAxNDg1MzI2NzU1Mzc1.CuPpxk4MDKS_LNZkkdORZpmytRe5i0r9g2YbafibqEcg.oZ-teQfrOtEyHGkEZti1IsmVWuxvayFXsQLmDlAlJjIg.PNG%2F14301727175887eb267ad2e.png)
