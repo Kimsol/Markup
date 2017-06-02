@@ -25,4 +25,4 @@
 ![alt text](http://cfs11.blog.daum.net/image/34/blog/2008/01/14/11/29/478ac91b809e2&filename=Untitled-1copy.jpg)
 
 * 자세균형보조를 위해서 침대 매트리스 양쪽에 장치를 추가하고 매트리스 내부에 특정 장치를 삽입한다. 이는 사용자의 수면 중 높낮이 조절을 위한 것이다.장치의 목적은 사용자가 수면 중에 *자세불균형*으로 인한 통증이나 질병을 치료 및 도움을 주기 위해서이다.
-![alt text](http://m.post.naver.com/viewer/image.nhn?src=http%3A%2F%2Fpost.phinf.naver.net%2FMjAxNzAxMjVfMjI1%2FMDAxNDg1MzI2NzU1Mzc1.CuPpxk4MDKS_LNZkkdORZpmytRe5i0r9g2YbafibqEcg.oZ-teQfrOtEyHGkEZti1IsmVWuxvayFXsQLmDlAlJjIg.PNG%2F14301727175887eb267ad2e.png)
+![alt text](http://www.popco.net/zboard/data/dica_news/2017/01/25/14301727175887eb267ad2e.png)
